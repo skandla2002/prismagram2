@@ -1,0 +1,14 @@
+{
+  "name": "prismagram2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skandla2002/prismagram2.git",
+  "author": "<skandla2002@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  }
+}
